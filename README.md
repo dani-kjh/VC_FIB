@@ -4,7 +4,7 @@ On this repository you can find all of my work on the laboratory sessions of [Vi
 
 Each session contains a pdf with my report, a .docx with the original statement of that session and all of the code I wrote.
 
-##Laboratory sessions:
+## Laboratory sessions:
 
 * [Exercici 1](https://github.com/dani-kjh/VC_FIB/tree/main/Labs/E1)- Mark: 8.5
 
